@@ -28,4 +28,4 @@ Việc mà cộng đồng Videlop luôn làm:
 
 - **Hỗ trợ, dạy và phổ biến cho mọi người về Tin học và Điện toán** theo nhu cầu của họ và trong khả năng của Videlop một cách tình nguyện bao gồm viết bài đăng, video hướng dẫn và hướng dẫn tại các trang công khai của Videlop. Nhưng hãy nhớ: Videlop không phải là nơi hỗ trợ kỹ thuật.
 
-- 
+
