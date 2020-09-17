@@ -1,6 +1,6 @@
 #### Mục lục
 
-1. Giới thiệu chung
+1. [Giới thiệu chung](https://github.com/videlop/guidelines/blob/master/vi/about.md)
 
 2. Công việc chung tại Videlop
    

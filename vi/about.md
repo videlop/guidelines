@@ -1,16 +1,12 @@
 # Giới thiệu về Videlop
 
-Lưu ý: tài liệu này sẽ khác nhiều với bản tiếng Anh do nhắm vào độc giả người trẻ Việt Nam
+Lưu ý: tài liệu này sẽ khác nhiều với bản tiếng Anh do đối tượng độc giả là người trẻ Việt Nam
 
 Cộng đồng Videlop, có tên đầy đủ nhất là *Cộng đồng nghiên cứu và phát triển phần mềm mã nguồn mở Videlop*, là một cộng đồng tập trung vào phần mềm mã nguồn mở ở Việt Nam với nhiều thành viên đến từ nhiều nơi trải dài trên mảnh đất hình chữ S này.
-
-
 
 ##### Hình thành
 
 Cộng đồng Videlop được nhất trí hình thành và thành lập vào ngày 6/9/2020, với nền tảng là 2 nhóm lập trình và nghiên cứu phần mềm mã nguồn mở và điện toán được gộp chung lại là Kode DEV Team (với sản phẩm chủ lực là Kode Script, một ngôn ngữ dễ học và đa nền tảng) và Weeb/Linux Team (nghiên cứu về phần mềm nhân hệ điều hành nổi tiếng Linux), chung với nhiều bạn có đam mê với lĩnh vực tin học thoát ly khỏi khuôn khổ gò bó của Bộ giáo dục.
-
-
 
 ##### Ý tưởng và việc chúng tôi làm
 
@@ -27,5 +23,3 @@ Việc mà cộng đồng Videlop luôn làm:
 - **Đóng góp cho phần mềm mã nguồn mở** bằng việc đóng góp và lập trình những sản phẩm mã nguồn mở thiết thực.
 
 - **Hỗ trợ, dạy và phổ biến cho mọi người về Tin học và Điện toán** theo nhu cầu của họ và trong khả năng của Videlop một cách tình nguyện bao gồm viết bài đăng, video hướng dẫn và hướng dẫn tại các trang công khai của Videlop. Nhưng hãy nhớ: Videlop không phải là nơi hỗ trợ kỹ thuật.
-
-
